@@ -1,0 +1,8 @@
+web1: 
+  name: testeapp 
+  shared_writable_dirs:
+    - wp-content/uploads/
+
+db1:
+  name: bdtesteapppagoda
+  type: mysql
